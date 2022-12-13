@@ -1,3 +1,4 @@
+const router = require('express').Router();
 //get all notes
 router.get('/notes', (req, res) => {
     let results = notesArray;
