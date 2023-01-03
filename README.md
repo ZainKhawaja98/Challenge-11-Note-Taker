@@ -2,24 +2,17 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation was to create a website where users can create notes that can be posted, edited, and deleted. It solves the problem of not being organized and keeping track of what needs to be done. I was able to get more familiar with routing and heroku through this assignment. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+N/A
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Visit the website and click the get started button. Give your note a title and text and save it. It will be displayed on the left so it can be viewed or deleted.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text](public/assets/images/website.png)
 
 # Credits
 
